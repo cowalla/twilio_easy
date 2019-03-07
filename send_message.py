@@ -15,6 +15,6 @@ def list_messages():
 
 
 if __name__ == '__main__':
-    content = 'this is the sort of stuff I do when I dont wanna work -- hotcarl'
+    content = 'This is a test message sent from the twilio python client'
 
     send_message(content)
